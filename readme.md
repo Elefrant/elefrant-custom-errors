@@ -1,6 +1,6 @@
 # Elefrant eTag
 
-[![wercker status](https://app.wercker.com/status/48eecd26101598e32a0084fb5dca813e/s/master "wercker status")](https://app.wercker.com/project/bykey/48eecd26101598e32a0084fb5dca813e)
+[![wercker status](https://app.wercker.com/status/ca90b21b622f2e3138b7ddac866e6323/s/master "wercker status")](https://app.wercker.com/project/bykey/ca90b21b622f2e3138b7ddac866e6323)
 
 [![Dependency Status](https://gemnasium.com/Elefrant/elefrant-custom-errors.svg)](https://gemnasium.com/Elefrant/elefrant-custom-errors)
 

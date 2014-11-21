@@ -2,7 +2,7 @@
 
 [![wercker status](https://app.wercker.com/status/48eecd26101598e32a0084fb5dca813e/s/master "wercker status")](https://app.wercker.com/project/bykey/48eecd26101598e32a0084fb5dca813e)
 
-[![Dependency Status](https://gemnasium.com/Elefrant/elefrant-etag.svg)](https://gemnasium.com/Elefrant/elefrant-etag)
+[![Dependency Status](https://gemnasium.com/Elefrant/elefrant-custom-errors.svg)](https://gemnasium.com/Elefrant/elefrant-custom-errors)
 
 
 Extend elefrant errors and create your own type of errors.

@@ -1,0 +1,50 @@
+{
+	"name": "elefrant-custom-errors",
+	"version": "0.0.1",
+	"description": "Extend elefrant errors with your own type of errors.",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/Elefrant/elefrant-custom-errors"
+	},
+	"author": "Elefrant <hello@elefrant.com>",
+	"maintainers": [{
+		"name": "Marcos Sanz Latorre",
+		"email": "marcos.sanz@13genius.com",
+		"url": "http://mistersanz.com"
+	}],
+	"main": "component",
+	"keywords": [
+		"elefrant-custom-erros",
+		"custom-erros",
+		"custom erros",
+		"elefrant.com",
+		"elefrant.io",
+		"component"
+	],
+	"scripts": {
+		"test": "node node_modules/grunt-cli/bin/grunt"
+	},
+	"engines": {
+		"node": ">=0.10.0",
+		"npm": ">=1.4.x",
+		"elefrant": ">=0.2.x"
+	},
+	"dependencies": {
+		"lodash": "~2.4.1"
+	},
+	"devDependencies": {
+		"grunt-cli": "~0.1.13",
+		"grunt-contrib-jshint": "~0.10.0",
+		"grunt-mocha-test": "~0.10.0",
+		"grunt": "~0.4.0",
+		"mocha": "~1.18.2",
+		"restify": "~2.8.3",
+		"should": "~3.2.0"
+	},
+	"readmeFilename": "readme.md",
+	"bugs": {
+		"url": "https://github.com/Elefrant/elefrant-custom-errors/issues"
+	},
+	"homepage": "https://github.com/Elefrant/elefrant-custom-errors"
+}

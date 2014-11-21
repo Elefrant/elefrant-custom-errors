@@ -1,4 +1,4 @@
-# Elefrant eTag
+# Elefrant Custom Errors
 
 [![wercker status](https://app.wercker.com/status/ca90b21b622f2e3138b7ddac866e6323/s/master "wercker status")](https://app.wercker.com/project/bykey/ca90b21b622f2e3138b7ddac866e6323)
 

@@ -31,7 +31,8 @@ function MyNewError(message) {
 registerError(restify, 'RestError', MyNewError, 'MyNewError');
 ```
 
-## Extra (Orm)
+## Extra
+###Orm
 
 Format ORM errors and validation.
 

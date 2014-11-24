@@ -13,6 +13,6 @@ describe('Custom Errors', function () {
 	});
 
 	it('check afterServer', function () {
-		should(component.afterServer({}, server, restify)).be.ok;
+		should(component.afterServer.func({}, server, restify)).be.ok;
 	});
 });

@@ -7,7 +7,10 @@ module.exports = {
 
 	name: 'customErrors',
 
-	afterServer: function (elefrant, server, restify) {
-		return errors(restify);
+	afterServer: {
+		weight: 1,
+		func: function (elefrant, server, restify) {
+			return errors(restify);
+		}
 	}
 };
